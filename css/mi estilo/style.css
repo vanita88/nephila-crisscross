@@ -16,11 +16,9 @@ a{
    color: whitesmoke;
 } 
 .banner{
-    align-items: center;
+   align-items: center;
     background:url(./fondo.jpg);
-    border-color:purple palevioletred purple palevioletred;
-    border-width: 30px;
-    border-style: outset;
+    background-size: cover;
 }
 .padre{
     display: flex;
